@@ -1,0 +1,12 @@
+{
+    "deno.enable": true,
+    "deno.unstable": true,
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "typescript.format.enable": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.useTabStops": false,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "files.eol": "\n"
+}
